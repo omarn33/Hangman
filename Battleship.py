@@ -1,7 +1,11 @@
-#Omar Naeem
+#Omar N
 #CIS 1400
 #Battleship Game
 #7/24/19
+#This project is a one player Battleship game against the CPU.
+#The user first sets up their ships and then alternates turns with the CPU
+#in guessing the coordinates of the enemy's ships. The first to destroy the
+#opponent's ships wins the game!
 
 import random
 name = ""
